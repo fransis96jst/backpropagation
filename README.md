@@ -2,7 +2,7 @@
 utdi321
 
 Kita punya jaringan saraf tiruan untuk XOR dengan arsitektur:   
-<img src="img/arsitektur_jaringan_s1.png" width="500" alt="jaringan1">
+<img src="img/aj1.png" width="450" alt="jaringan1">
 
 - 2 neuron input: X₁, X₂  
 - 1 bias input (selalu = 1)  
